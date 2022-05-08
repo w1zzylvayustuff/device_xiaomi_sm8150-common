@@ -445,7 +445,7 @@ PRODUCT_BOOT_JARS += \
 
 # Touch
 PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.xiaomi_sm8150
+    vendor.lineage.touch@1.0-service
 
 # Trust
 PRODUCT_PACKAGES += \
